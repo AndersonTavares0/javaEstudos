@@ -25,8 +25,8 @@ O repositório armazena a evolução prática em lógica de programação e fund
 ## Estrutura de Diretórios
 
 * `src/` : Diretório raiz do código-fonte.
-    * `devdojo/` : Pacotes destinados aos exemplos e sintaxe das aulas.
-    * `exercicios/` : Resoluções de problemas e algoritmos propostos.
+    * `devdojo_aulas/` : Pacotes destinados aos exemplos e sintaxe das aulas.
+    * `devdojo_exercicios/` : Resoluções de problemas e algoritmos propostos.
 
 ---
 
